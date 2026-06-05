@@ -1,0 +1,47 @@
+/* DG Afrique design tokens */
+:root {
+  --color-green: #2e7d32;
+  --color-green-dark: #1b5e20;
+  --color-gold: #c9a84c;
+  --color-gold-dark: #a9892e;
+  --color-white: #ffffff;
+  --color-black: #0f0f0f;
+  --color-gray: #4a4a4a;
+  --color-muted: #79746b;
+  --color-section: #f5f3ee;
+  --color-line: rgba(15, 15, 15, 0.12);
+
+  --font-heading: "Cormorant Garamond", Georgia, serif;
+  --font-body: "DM Sans", Arial, sans-serif;
+  --font-size-xs: 0.78rem;
+  --font-size-sm: 0.9rem;
+  --font-size-base: 1rem;
+  --font-size-md: 1.125rem;
+  --font-size-lg: 1.35rem;
+  --font-size-xl: 1.8rem;
+  --font-size-2xl: 2.4rem;
+  --font-size-3xl: 3.25rem;
+  --font-size-hero: clamp(3rem, 5vw, 6rem);
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --space-9: 5rem;
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+
+  --shadow-soft: 0 12px 30px rgba(15, 15, 15, 0.08);
+  --shadow-lift: 0 20px 45px rgba(15, 15, 15, 0.14);
+  --shadow-header: 0 10px 26px rgba(15, 15, 15, 0.1);
+
+  --transition-fast: 160ms ease;
+  --transition: 240ms ease;
+  --transition-slow: 520ms ease;
+}
